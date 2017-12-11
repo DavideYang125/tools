@@ -1,0 +1,7 @@
+F:\mycode\Tools\Tools\bin\Debug\Tools.exe.config
+F:\mycode\Tools\Tools\bin\Debug\Tools.exe
+F:\mycode\Tools\Tools\bin\Debug\Tools.pdb
+F:\mycode\Tools\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+F:\mycode\Tools\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+F:\mycode\Tools\Tools\obj\Debug\Tools.exe
+F:\mycode\Tools\Tools\obj\Debug\Tools.pdb
